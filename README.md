@@ -64,6 +64,7 @@ planarian-regeneration-analysis/
 |- figures/
 |  |_ [visualization outputs]       # Publication-quality plots
 |_ requirements.txt                 # Python packages needed
+
 '''
 
 ---
