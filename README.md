@@ -43,7 +43,8 @@ How do caffeine and nicotine affect regeneration rates, morphological developmen
 - Melatonin as negative control, while not quite statistically significant, showed large negative effect on planarian regeneration and increased mortality rates
 - Statistical analysis of overall regeneration was performed using Kruskal-Wallis test and did not indicate statistical significance (p = [0.189])
 
-![Mean regeneration score of D. *dorotocephela* in treatment groups]()
+![Mean regeneration scores of across treatment groups](figures/regeneration_comparison.png)
+*Figure 1: Mean regeneration scores across treatment groups over 15 days. Lines represent mean values for each treatment condition. Asterisks indicate timepoints where greatest significance was observed.*
 
 
 ### This is a smaller subheading (third level)
