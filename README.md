@@ -49,6 +49,7 @@ How do caffeine and nicotine affect regeneration rates, morphological developmen
 ___
 
 ## Repository Structure
+
 '''
 
 planarian-regeneration-analysis/
