@@ -46,6 +46,29 @@ How do caffeine and nicotine affect regeneration rates, morphological developmen
 ![Mean regeneration scores of across treatment groups](figures/regeneration_comparison.png)
 *Figure 1: Mean regeneration scores across treatment groups over 15 days. Lines represent mean values for each treatment condition. Asterisks indicate timepoints where greatest significance was observed.*
 
+___
+
+## Repository Structure
+'''
+
+planarian-regeneration-analysis/
+|- README.md                        # This file
+|- data/
+|  |- raw_data.csv                  # Original experimental data
+|  |_ processed_data.csv            # Cleaned data for analysis
+|- notebooks/
+|  |- 01_data_cleaning.ipynb        # Data preprocessing
+|  |- 02_exporator_analysis.ipynb   # Initial exploration and visualization
+|  |_ 03_statistical_analysis.ipynb # Kruskal-Wallis tests and results
+|- figures/
+|  |_ [visualization outputs]       # Publication-quality plots
+|_ requirements.txt                 # Python packages needed
+'''
+
+---
+
+## Technologies Used
+
 
 ### This is a smaller subheading (third level)
 
