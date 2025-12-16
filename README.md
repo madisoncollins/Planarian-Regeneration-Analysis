@@ -7,7 +7,7 @@ Quantitive analysis of regeneration patterns in *Dugesia dorotocephela* planaria
 ---
 
 ## Research Question
-How do caffeine and nicotine affect regeneration rates, morphological development, and overall regeneration success in planarian flatworms?
+How do caffeine and nicotine affect regeneration rates, morphological development, and overall regeneration success in planarian flatworms.
 
 ---
 
@@ -15,13 +15,13 @@ How do caffeine and nicotine affect regeneration rates, morphological developmen
 
 ### Experimental Design
 - **Organism:** *Dugesia dorotochephala* (brown planarians)
-- **Study Duration:** 3 trials across 6 weeks
+- **Study Duration:** 3 14-day trials across 6 weeks
 - **Sample Size:** 36 planarians in each of 4 treatment groups (144 total planarians used for data collection)
 - **Treratment Groups:**
   - Positive control (Poland Springs water)
-  - Melatonin - Negative control ([0.25]mM)
-  - Caffeine treatment ([0.25]mM)
-  - Nicotine treatment ([0.25]mM)
+  - Melatonin - Negative control (0.25 mM)
+  - Caffeine treatment (0.25 mM)
+  - Nicotine treatment (0.25 mM)
 
 ### Data Collection
 - Morphological scoring using standardized criteria from 7-stage scale completed every 1-2 days with the exception of weekends when lab was closed
@@ -31,7 +31,7 @@ How do caffeine and nicotine affect regeneration rates, morphological developmen
 ### Statistical Analysis
 - Kruskal-Wallis H-test for non-parametric comparison across treatment groups
 - Post-hoc pairwise comparisons where significant differences detected
-- Significance level: a = [0.05]
+- Significance level: a = 0.05
 
 ---
 
@@ -41,10 +41,10 @@ How do caffeine and nicotine affect regeneration rates, morphological developmen
   - Trend observed suggested potential positive affect on early stages of regeneration
 - Nicotine exposure resulted in no statistical significane, however slightly aligned with initial hypotheses given modest observable trend suggests nicotine has a negative affect on regeneration
 - Melatonin as negative control, while not quite statistically significant, showed large negative effect on planarian regeneration and increased mortality rates
-- Statistical analysis of overall regeneration was performed using Kruskal-Wallis test and did not indicate statistical significance (p = [0.189])
+- Statistical analysis of overall regeneration was performed using Kruskal-Wallis test and did not indicate statistical significance (p = 0.189)
 
 ![Mean regeneration scores of across treatment groups](figures/regeneration_comparison.png)
-*Figure 1: Mean regeneration scores across treatment groups over 15 days. Lines represent mean values for each treatment condition. Asterisks indicate timepoints where greatest significance was observed.*
+*Figure 1: Mean regeneration scores across treatment groups over 14 days. Lines represent mean values for each treatment condition. Asterisks indicate timepoints where greatest significance was observed.*
 
 ___
 
