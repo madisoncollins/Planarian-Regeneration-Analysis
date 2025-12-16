@@ -78,9 +78,9 @@ planarian-regeneration-analysis/
 
 ---
 
-## Hiw to Run This Analysis
+## How to Run This Analysis
 
-### Prereuisites
+### Prerequisites
 - Python 3.8 or higher
 - Jupyter Notebook
 
