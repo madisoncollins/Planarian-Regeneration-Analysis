@@ -51,7 +51,6 @@ ___
 ## Repository Structure
 
 '''
-
 planarian-regeneration-analysis/
 |- README.md                        # This file
 |- data/
@@ -64,7 +63,6 @@ planarian-regeneration-analysis/
 |- figures/
 |  |_ [visualization outputs]       # Publication-quality plots
 |_ requirements.txt                 # Python packages needed
-
 '''
 
 ---
