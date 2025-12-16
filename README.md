@@ -114,13 +114,13 @@ jupyter notebook
 - Examining whether genetic or pharmacological manipulation of adenosine or nAChR signaling pathways can mimic or prevent the effects of caffeine and nicotine
 - Understanding how common neuroactive compounds influence regeneration in planarians may have implications for regenerative medicine
 
---- Author
+--- 
+
+## Author
 
 **Madison Collins**
 Northeastern University | B.S. Biology
-
 Email: collins.madi@northeastern.edu
-
 [LinkedIn](https://linkedin.com/in/madison-collins-865757348)
 
 ---
