@@ -86,21 +86,21 @@ planarian-regeneration-analysis/
 
 ### Setup
 1. Clone this repository:
-'''
+```
 bash
 git clone https://github.com/madisoncollins/planarian-regeneration-analysis.git
 cd planarian-regeneration-analysis
-'''
+```
 
 2. Install required packages:
-''' bash
+``` bash
 pip install -r requirements.txt
-'''
+```
 
 3. Launch Jupyter Notebook:
-''' bash
+``` bash
 jupyter notebook
-'''
+```
 
 4. Open and run notebooks in order:
    - '01_data_cleaning.ipynb'
