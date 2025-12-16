@@ -69,27 +69,66 @@ planarian-regeneration-analysis/
 
 ## Technologies Used
 
+- **Python 3.12.3**
+- **pandas** - data manipulation and cleaning
+- **numpy** - numerical operations
+- **scipy** - statistical testing (Kruskal-Wallis)
+- **matplotlib & seaborn** - data visualization
+- **Jupyter Notebook** - interactive analysis
 
-### This is a smaller subheading (third level)
+---
 
-**This text is bold**
-*This text is italic*
+## Hiw to Run This Analysis
 
-- This is a bullet point
-- Another bullet point
-  - Indented bullet (use 2 spaces before dash)
+### Prereuisites
+- Python 3.8 or higher
+- Jupyter Notebook
 
-1. Numbered list item
-2. Another numbered item
+### Setup
+1. Clone this repository:
+'''
+bash
+git clone https://github.com/madisoncollins/planarian-regeneration-analysis.git
+cd planarian-regeneration-analysis
+'''
 
-[This is a link](https://www.example.com)
+2. Install required packages:
+''' bash
+pip install -r requirements.txt
+'''
 
-`This is inline code`
-```python
-# This is a code block
-def hello():
-    print("Hello!")
-```
-(Use three backticks before and after for code blocks)
+3. Launch Jupyter Notebook:
+''' bash
+jupyter notebook
+'''
 
-![Alt text for image](path/to/image.png)
+4. Open and run notebooks in order:
+   - '01_data_cleaning.ipynb'
+   - '02_exploratory_analysis.ipynb'
+   - '03_statistical_analysis.ipynb'
+
+---
+
+## Future Directions
+- Investigating the combined effects of caffeine and nicotine on regeneration
+- Examining whether genetic or pharmacological manipulation of adenosine or nAChR signaling pathways can mimic or prevent the effects of caffeine and nicotine
+- Understanding how common neuroactive compounds influence regeneration in planarians may have implications for regenerative medicine
+
+--- Author
+
+*** Madison Collins**
+Northeastern University | B.S. Biology
+Email: collins.madi@northeastern.edu
+[LinkedIn](https://linkedin.com/in/madison-collins-865757348)
+
+---
+
+## Acknowledgements
+
+This research was conducted as part of Biology Project Lab (BIOL 2309) at Northeastern University. Special thanks to Dr. Lindsay Mehrmanesh and my research team members for their collaboration on experimental design and data collection.
+
+---
+
+## Liscense
+
+This project is available for educational purposes. Please cite if using for academic work.
