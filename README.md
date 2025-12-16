@@ -119,8 +119,8 @@ jupyter notebook
 ## Author
 
 **Madison Collins**
-Northeastern University | B.S. Biology
-Email: collins.madi@northeastern.edu
+Northeastern University | B.S. Biology |
+Email: collins.madi@northeastern.edu   
 [LinkedIn](https://linkedin.com/in/madison-collins-865757348)
 
 ---
